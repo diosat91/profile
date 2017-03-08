@@ -1,0 +1,66 @@
+#profile_pic {
+	width: 150px;
+	border-radius: 100px;
+	border: 2px solid #EE6E73;
+	margin: 15px !important;
+}
+
+.movie_pic {
+	width: 200px;
+	height: 300px;
+}
+
+body {
+	background-color: #fafafa;
+}
+
+p {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #7d7d7d;
+	font-size: 18px;
+}
+
+#my_name {
+	color: #EE6E73;
+	font-family: 'Pacifico', cursive;
+}
+
+.card-title {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #616161;
+}
+
+h3 {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #EE6E73;
+}
+
+img {
+	display: relative;
+}
+
+h4 {
+	color: #bdbdbd;
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+a {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #7d7d7d;
+}
+
+a:hover {
+	color: pink;
+}
+
+i {
+	color: #f48fb1;
+}
+
+.light-grey {
+	color: #bdbdbd;
+}
+
+.footer {
+	background-color: #EE6E73;
+}
